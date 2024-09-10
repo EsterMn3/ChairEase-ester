@@ -30,7 +30,6 @@ This project is a website for a company that specializes in designing and buildi
 - Living room section with a video background
 - Back to top button
 - Footer with links to help and support, shop and explore, about, and legal & policies sections
-- Social media icons
 
 ## Technologies Used
 
@@ -39,7 +38,7 @@ This project is a website for a company that specializes in designing and buildi
 - JavaScript (ES6)
 - Ionic icons
 - SVG icons
-- Video.js
+- Video
 
 ## Getting Started
 
@@ -49,10 +48,4 @@ To view the Chairease website, open the `index.html` file in a web browser.
 
 If you would like to contribute to the Chairease project, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
-## License
 
-This project is open-source and released under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or comments, please contact [Ester Minja](mailto:esterminja@example.com).
